@@ -2,7 +2,7 @@ import React from 'react';
 import { View, Text, Button } from 'react-native';
 
 //Calling a custom components
-import AlbumList from '../my_custom_components/Lists/AlbumList'
+//import AlbumList from '../my_custom_components/Lists/AlbumList'
 import ScreenStyles from './ViewStyles/ScreenStyles'
 
 
