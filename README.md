@@ -1,7 +1,7 @@
 # MAST5112_Tutorial_Sessions_2024
  Code samples of concepts which were covered in MAST5112 Tutorial Sessions for 2024.
 
-# Minimum Requirements (when running on Virtual Machines)
+# Minimum Requirements <br /> (when running on Virtual Machines)
 Software: GitHub Desktop
 
 # Installation Instructions
