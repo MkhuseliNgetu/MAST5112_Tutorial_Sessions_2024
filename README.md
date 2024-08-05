@@ -10,8 +10,8 @@ Software: GitHub Desktop
  3. Open the directory in which the files were downloaded into and select the project folder you want to open. <br />
     (The directory will usually be the following (when using GitHub Desktop): \Documents\GitHub\MAST5112_Tutorial_Sessions_2024)
  5. Wait for VSCode to load the project.
- 6. Once VSCode has completed loading the project, click on the 'Terminal' ribbon and select 'New Terminal' to open a 'black screen' within VSCode.
- 7. Navigate to the bottom of the VSCode window and enter 'npm install' to install the require node_modules (dependencies) required for the application.
+ 6. Once VSCode has completed loading the project, click on the 'Terminal' ribbon and select 'New Terminal'.
+ 7. Navigate to the bottom of the VSCode window and enter 'npm install' to install the required node_modules for the application.
 
 # Runtime Instructions
  1. Enter 'npx expo start' to start the application with Expo.
